@@ -1,0 +1,25 @@
+{
+  "name": "mc-w1d5-node-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelevra82/mc-w1d5-node-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kelevra82/mc-w1d5-node-review/issues"
+  },
+  "homepage": "https://github.com/Kelevra82/mc-w1d5-node-review#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.5.0"
+  }
+}
